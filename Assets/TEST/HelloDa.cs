@@ -6,6 +6,6 @@ public class HelloDa : MonoBehaviour
 {
     private void Start()
     {
-        print("hello aleksey");
+        print("why we must rename master to main?");
     }
 }
